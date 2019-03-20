@@ -1,0 +1,22 @@
+{
+  "name": "firebasenode",
+  "version": "1.0.0",
+  "description": "Node js and firebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mahafuz",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zaman3027/FirebaseNode.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Zaman3027/FirebaseNode/issues"
+  },
+  "homepage": "https://github.com/Zaman3027/FirebaseNode#readme",
+  "dependencies": {
+    "eslint": "^5.15.3"
+  }
+}
